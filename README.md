@@ -1,0 +1,1 @@
+This is a 2 player coop game where the goal is to collect as many coins as possible and avoid the bad mushrooms. The speed increases as the levels go by, press h to enter "hardcore mode"
